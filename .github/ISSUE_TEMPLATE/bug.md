@@ -55,7 +55,7 @@ Describir el problema lo más detalladamente posible 💬
 
 
 **Logs** 🔡
-Copie y pegue el log. Este se formateará automáticamente como código.
+Copie y pegue el log.
 
 >>
 
