@@ -21,9 +21,8 @@ assignees: ''
 
 
 
->>
 
-**Indicar el tipo de servido** 🗄
+**Indicar el tipo de servidor** 🗄
 ‣ On-premise 🖥️
 ‣ Cloud ☁
 
