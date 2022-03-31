@@ -11,13 +11,13 @@ assignees: ''
 
 >>
 
+
+
+
 **Instancia**👨‍💻
 ¿En qué instancia ocurrió el problema?
 
-
-
-
-
+>>
 
 
 
@@ -28,44 +28,67 @@ assignees: ''
 
 >>
 
+
+
+
 **Versión** 🔢
 ¿Cuál es la versión de uContact en la que ocurre el problema? (Poner número de versión)
 
 >>
+
+
+
 
 **¿En qué canales ocurre este problema?** 🏷
 En caso de ser SMS indicar el proveedor en la descripción
 
 >>
 
+
+
+
 **¿Cuál fue el problema?** 🐞
 Describir el problema lo más detalladamente posible 💬
 
 >>
+
+
+
 
 **Logs** 🔡
 Copie y pegue el log. Este se formateará automáticamente como código.
 
 >>
 
+
+
+
 **Pasos para reproducir el incidente** 👣
 
 >>
+
+
+
 
 **¿Fue validado en otras instancias?** ▶
 En caso de no haber sido reproducido agregar el label Triage 🏷
 
 >>
 
+
+
+
 **En caso de disponer de capturas o videos, añadirlos aquí** 📹
 
 >>
+
+
+
 
 **Plazos solicitados por el cliente** 📅
 Mencionar plazos o fechas para estimar y priorizar
 
 >>
-
 
 
 
