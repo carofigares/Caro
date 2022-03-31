@@ -23,11 +23,8 @@ assignees: ''
 
 
 **Indicar el tipo de servidor** 🗄
-‣ On-premise 🖥️
-‣ Cloud ☁
-
->>
-
+- [ ] On-premise 🖥️
+- [ ] Cloud ☁
 
 
 
@@ -42,9 +39,11 @@ assignees: ''
 **¿En qué canales ocurre este problema?** 🏷
 En caso de ser SMS indicar el proveedor en la descripción
 
->>
-
-
+- [ ] Telefonía
+- [ ] Webchat
+- [ ] SMS/Whatsapp
+- [ ] Email
+- [ ] Facebook/Messenger
 
 
 **¿Cuál fue el problema?** 🐞
@@ -73,9 +72,8 @@ Copie y pegue el log. Este se formateará automáticamente como código.
 **¿Fue validado en otras instancias?** ▶
 En caso de no haber sido reproducido agregar el label Triage 🏷
 
->>
-
-
+- [ ] Sí
+- [ ] No
 
 
 **En caso de disponer de capturas o videos, añadirlos aquí** 📹
