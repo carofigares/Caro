@@ -1,6 +1,6 @@
 ---
 name: Bug
-about: Create a report to help us improve
+about: Reportar un problema
 title: BUG
 labels: bug
 assignees: ''
@@ -22,7 +22,7 @@ assignees: ''
 
 
 
-**Indicar el tipo de servidor** 🗄
+**Indicar el tipo de servidor** 🗄 (digita una X dentro de los paréntesis de la opción seleccionada)
 - [ ] On-premise 🖥️
 - [ ] Cloud ☁
 
@@ -36,7 +36,7 @@ assignees: ''
 
 
 
-**¿En qué canales ocurre este problema?** 🏷
+**¿En qué canales ocurre este problema?** 🏷 (digita una X dentro de los paréntesis de la opción seleccionada)
 En caso de ser SMS indicar el proveedor en la descripción
 
 - [ ] Telefonía
@@ -69,7 +69,7 @@ Copie y pegue el log.
 
 
 
-**¿Fue validado en otras instancias?** ▶
+**¿Fue validado en otras instancias?** ▶  (digita una X dentro de los paréntesis de la opción seleccionada)
 En caso de no haber sido reproducido agregar el label Triage 🏷
 
 - [ ] Sí
