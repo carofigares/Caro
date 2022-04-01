@@ -26,8 +26,9 @@ En caso positivo, agregar también el label correspondiente 🏷
 Mencionar plazos o fechas para estimar y priorizar
 
 
-
+##
 **Recordar:**
 - Agregar los labels involucrados en la propuesta 🏷
 - Seleccionar proyecto: Projects-> To do 👉
 - Añadir capturas, imagenes y/o videos que ayuden al proceso de validación y desarrollo 📷📹🎞
+##
