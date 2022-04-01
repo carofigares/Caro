@@ -9,11 +9,13 @@ assignees: ''
 
 **¿Qué cliente lo solicita?** 👁‍🗨
 
+Lo solicita el cliente...
 
 
 **Descripción** 💬
 Describir la implementación a proponer
 
+Se propone...
 
 
 
@@ -25,6 +27,7 @@ En caso positivo, agregar también el label correspondiente 🏷
 **Plazos solicitados por el cliente** 📅
 Mencionar plazos o fechas para estimar y priorizar
 
+El cliente pide que se pase un estimativo antes de...
 
 ##
 **Recordar:**
