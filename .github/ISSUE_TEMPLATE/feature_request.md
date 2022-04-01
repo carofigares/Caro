@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Solicitud de una nueva implementación
-title: Solicitud de una nueva implementación
+title: 
 labels: new feature
 assignees: ''
 
