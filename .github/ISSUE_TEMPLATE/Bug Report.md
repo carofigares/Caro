@@ -90,10 +90,11 @@ Mencionar plazos o fechas para estimar y priorizar
 
 
 
-
+##
 **Recordar:**
 - Agregar los labels involucrados en el problema 🏷
 - Seleccionar el proyecto: Projects-> To do 👉
 - Añadir capturas, imágenes y/o videos que ayuden al proceso de validación y desarrollo 📷📹🎞
 - Mencionar si el cliente tiene salida a internet 📶
 - Tipo de licencia 🔑
+##
