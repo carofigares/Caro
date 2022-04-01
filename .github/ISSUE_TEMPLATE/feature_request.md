@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: Solicitud de una nueva implementación
-labels: new request
+labels: new feature
 assignees: ''
 
 ---
