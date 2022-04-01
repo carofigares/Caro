@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Solicitud de una nueva implementación
 title: Solicitud de una nueva implementación
 labels: new feature
 assignees: ''
