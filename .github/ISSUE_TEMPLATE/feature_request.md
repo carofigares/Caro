@@ -17,7 +17,7 @@ Describir la implementación a proponer
 
 
 
-**¿Requiere cotización?**💲
+**¿Requiere cotización?** 💲
 En caso positivo, agregar también el label correspondiente 🏷
 
 - [ ] Sí
@@ -29,5 +29,5 @@ Mencionar plazos o fechas para estimar y priorizar
 
 **Recordar:**
 - Agregar los labels involucrados en la propuesta 🏷
-- Seleccionar Projects-> To do 👉
+- Seleccionar proyecto: Projects-> To do 👉
 - Añadir capturas, imagenes y/o videos que ayuden al proceso de validación y desarrollo 📷📹🎞
