@@ -9,32 +9,22 @@ assignees: ''
 
 **¿Qué cliente lo solicita?** 👁‍🗨
 
->>
-
-
+Lo solicita el cliente...
 
 
 **Instancia**👨‍💻
 ¿En qué instancia ocurrió el problema?
 
->>
-
-
-
+INSTANCIA.ucontactcloud.com
 
 **Indicar el tipo de servidor** 🗄 (digita una X dentro de los paréntesis de la opción seleccionada)
 - [ ] On-premise 🖥️
 - [ ] Cloud ☁
 
-
-
 **Versión** 🔢
 ¿Cuál es la versión de uContact en la que ocurre el problema? (Poner número de versión)
 
->>
-
-
-
+6.4xx
 
 **¿En qué canales ocurre este problema?** 🏷 (digita una X dentro de los paréntesis de la opción seleccionada)
 En caso de ser SMS indicar el proveedor en la descripción
@@ -49,7 +39,7 @@ En caso de ser SMS indicar el proveedor en la descripción
 **¿Cuál fue el problema?** 🐞
 Describir el problema lo más detalladamente posible 💬
 
->>
+Ocurrió un incidente al...
 
 
 
@@ -57,14 +47,11 @@ Describir el problema lo más detalladamente posible 💬
 **Logs** 🔡
 Copie y pegue el log.
 
->>
-
-
 
 
 **Pasos para reproducir el incidente** 👣
 
->>
+1- Primero se entra como supervisor a ...
 
 
 
@@ -78,7 +65,7 @@ En caso de no haber sido reproducido agregar el label Triage 🏷
 
 **En caso de disponer de capturas o videos, añadirlos aquí** 📹
 
->>
+Adjunta aquí tu archivo multimedia... 
 
 
 
@@ -86,7 +73,7 @@ En caso de no haber sido reproducido agregar el label Triage 🏷
 **Plazos solicitados por el cliente** 📅
 Mencionar plazos o fechas para estimar y priorizar
 
->>
+El cliente pide que se pase un estimativo antes de...
 
 
 
