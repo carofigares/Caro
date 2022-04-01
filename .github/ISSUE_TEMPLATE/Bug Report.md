@@ -1,7 +1,7 @@
 ---
 name: Bug
 about: Reportar un problema
-title: 
+title: ''
 labels: bug
 assignees: ''
 
