@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **¿Qué cliente lo solicita?** 👁‍🗨
-Lo solicita el cliente...
+Lo solicita el cliente....
 
 
 **Descripción** 💬
