@@ -2,7 +2,7 @@
 name: Feature request
 about: Solicitud de una nueva implementación
 title: ''
-labels: 'new feature'
+labels: ["new feature", "Pending Approval"]
 assignees: ''
 
 ---
