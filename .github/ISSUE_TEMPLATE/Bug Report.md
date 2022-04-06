@@ -56,8 +56,7 @@ Copie y pegue el log.
 
 
 
-**¿Fue validado en otras instancias?** ▶  (digita una X dentro de los paréntesis de la opción seleccionada)
-En caso de no haber sido reproducido agregar el label Triage 🏷
+**¿El incidente fue reproducido y validado en otras instancias?** ▶  (digita una X dentro de los paréntesis de la opción seleccionada)
 
 - [ ] Sí
 - [ ] No
@@ -79,7 +78,7 @@ El cliente pide que se pase un estimativo antes de...
 
 ##
 **Recordar:**
-- Agregar los labels involucrados en el problema 🏷
+
 - Seleccionar el proyecto: Projects-> To do 👉
 - Añadir capturas, imágenes y/o videos que ayuden al proceso de validación y desarrollo 📷📹🎞
 - Mencionar si el cliente tiene salida a internet 📶
