@@ -2,7 +2,7 @@
 name: Bug
 about: Reportar un problema
 title: ''
-labels: ["bug", "improvement"]
+labels: ["bug", "Triage"]
 assignees: ''
 
 ---
