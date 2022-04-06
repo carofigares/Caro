@@ -31,7 +31,7 @@ El cliente pide que se pase un estimativo antes de...
 
 ##
 **Recordar:**
-- Agregar los labels involucrados en la propuesta 🏷
+
 - Seleccionar proyecto: Projects-> To do 👉
 - Añadir capturas, imagenes y/o videos que ayuden al proceso de validación y desarrollo 📷📹🎞
 ##
