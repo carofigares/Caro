@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Feature Request
 about: Solicitud de una nueva implementación
 title: ''
 labels: ["new feature", "Pending Approval"]
