@@ -32,6 +32,6 @@ El cliente pide que se pase un estimativo antes de...
 ##
 **Recordar:**
 
-- Seleccionar proyecto: Projects-> To do 👉
+- Seleccionar el proyecto: Projects-> To do 👉
 - Añadir capturas, imagenes y/o videos que ayuden al proceso de validación y desarrollo 📷📹🎞
 ##
