@@ -62,13 +62,6 @@ Copie y pegue el log.
 - [ ] No
 
 
-**En caso de disponer de capturas o videos, añadirlos aquí** 📹
-
-Adjunta aquí tu archivo multimedia... 
-
-
-
-
 **Plazos solicitados por el cliente** 📅
 Mencionar plazos o fechas para estimar y priorizar
 
