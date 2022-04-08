@@ -19,6 +19,6 @@ Se propone modificar...
 ##
 **Recordar:**
 
-- Seleccionar Projects-> To do 👉
+- Seleccionar el proyecto: Projects-> To do 👉
 - Añadir capturas, imagenes y/o videos que ayuden al proceso de validación y desarrollo 📷📹🎞
 ##
